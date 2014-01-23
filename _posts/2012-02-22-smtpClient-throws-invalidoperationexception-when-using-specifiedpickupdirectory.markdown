@@ -16,6 +16,6 @@ However causes an exception to be thrown.  After some head scratching and a bit 
 
 <img src="/attachments/newSmtpClient.png" alt="SmtpClient"/>
 
-you must define the &lt;network/&gt; attribute after the &lt;specifiedPickupDirectory/&gt;, even though you donâ€™t want to use it:
+you must define the &lt;network/&gt; attribute after the &lt;specifiedPickupDirectory/&gt;, even though you don't want to use it:
 
 <img src="/attachments/smtp_settings_correct.png" alt="smtp settings correct"/>
