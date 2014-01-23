@@ -2,7 +2,7 @@
 layout: post
 title:  "Running Ruby on Rail on a Raspberry Pi"
 date:   2013-08-15 10:18:00
-categories: ruby on rails, raspberry pi, rpi, rails, apache, passenger
+categories: ruby on rails, raspberry pi, rails, apache, passenger
 ---
 
 <i>Disclaimer: I'm not a Linux sysadmin, nor have I been writing Ruby on Rails for long. This post is just what has worked for me, and there may be glaring issues with what I have done that I am unaware of. Use at your own risk!</i>

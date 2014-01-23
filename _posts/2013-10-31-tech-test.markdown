@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "Technical challenge - write a file copy application"
+date:   2013-10-31 10:18:00
+categories: tech challenge, .NET, Winforms
+---
+
+I'm not a big fan of technical challenges if I'm honest, as I don't really agree with putting someone under pressure to see how they perform (which is always how they feel to me).  I'd rather sit down and talk to them, ask them about their experiences and what gets them excited - I think getting someone to open up and get passionate about something really shows what they know far better than a contrived technical test.
+
+That being said, in the technology industry it's pretty standard to be given some sort of test, either before or during an interview.  Recently, I was asked to do one as an exercise and without giving too much away, the requirement was for a recursive file and folder copying application.
+
+I started off my career as a Winforms developer, but haven't touched a Windows GUI in over 4 years so initially I was a bit put off.  Within a couple of minutes it had all come flooding back (thankfully!), and I am actually very pleased with the results.
+
+There are some improvements I can see: the challenge was time-limited, so whilst I would like to have used an asyc/await pattern (you can do that in Winforms, right?) I simply ran out of time.  I also think it's possible to improve performance too using the TPL (Task Parallel Library), but I shall leave that as an exercise to the reader ;-)
+
+You can browse the completed source on [Github]
+
+[github]: https://github.com/thesilverbadger/SimpleCopy
