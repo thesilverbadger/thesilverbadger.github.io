@@ -1,0 +1,12 @@
+name: Tom Wire's Blog'
+description: Blogging about stuffs
+meta_description: "Blogging about stuffs"
+
+markdown: redcarpet
+pygments: true
+logo: false
+paginate: 15
+
+# Details for the RSS feed generator
+url:            'http://thesilverbadger.co.uk'
+author:         'Tom Wire'
