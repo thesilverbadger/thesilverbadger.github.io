@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Ubuntu - building a home server part 1"
+date:   2014-02-23 09:56:00
+categories: Home server, Ubuntu, Linux
+---
+
+In my efforts to be a polyglot, both in terms of programming languages and environments, I've decide to move my home server from Windows to Linux.  This will be a challenge, as I've run various home server setups over the years and they've always been Windows (from 2000, to 2003, to 2008R2 and now 2012R2)!
