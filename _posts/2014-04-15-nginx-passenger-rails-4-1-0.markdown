@@ -26,4 +26,4 @@ production:
   secret_key_base: <%= ENV["SECRET_KEY_BASE"] %>
 {% endhighlight %} 
 
-You can either set an environment variable, or directly configure a value here (you can run `rake secret` to generate a key).  Just make sure that if you do the later, you've added secrets/yml to your .gitignore!
+You can either set an environment variable, or directly configure a value here (you can run `rake secret` to generate a key).  Just make sure that if you do the latter, you've added secrets/yml to your .gitignore!
