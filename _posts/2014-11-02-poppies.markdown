@@ -5,9 +5,9 @@ date:   2014-11-02 13:00:00
 categories: Poppies
 ---
 
-![poppies in the moat]({{ site.url }}/assets/images/poppies/moat.jpg)
-
 There has been a bit of a furore over an [article] in the Guardian (and [followup]), describing the poppy installation at the Tower of London as "fake, trite and inward-looking – a Ukip-style memorial."
+
+![poppies in the moat]({{ site.url }}/assets/images/poppies/moat.jpg)
 
 The author's main complaint seems to be that the Poppies are too sterile and pretty.  Instead, any installation should "be gory, vile and terrible to see. The moat of the Tower should be filled with barbed wire and bones. That would mean something."
 
