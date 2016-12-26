@@ -3,7 +3,8 @@ description: Blogging about stuffs
 meta_description: "Tom Wire Blog. Blogging about ASP.NET, Ruby on Rails and anything in between"
 
 # markdown: redcarpet
-pygments: true
+# pygments: true
+highlighter: rouge
 logo: false
 paginate: 15
 
